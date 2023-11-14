@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 Learn more about me at https://jagz5246.github.io/jagan-mohan-portfolio/
+- 👨‍💻 Learn more about me at https://jaganmohan.netlify.app
 
 - 💬 Ask me about **JavaScript, TypeScript & react**
 
