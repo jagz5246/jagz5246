@@ -10,7 +10,7 @@
 
 - 👨‍💻 Learn more about me at https://jaganmohan.netlify.app
 
-- 💬 Ask me about **JavaScript, TypeScript & react**
+- 💬 Ask me about **JavaScript, React.js & Next.js**
 
 - 📫 How to reach me **jagz5246@gmail.com**
 
