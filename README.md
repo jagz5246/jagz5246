@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagan</h1>
 <h3 align="center">A passionate frontend developer, on a mission to turn creative ideas into reality!</h3>
-<img alt="logo" width="200" height="200" src="https://drive.google.com/file/d/1wbB0kj1KvZeClxSwPIC3u3Ez7QmVPy2L/view?usp=sharing"/>
+<img alt="logo" width="200" height="200" src="https://drive.google.com/file/d/1IzlmUI4HnzBudnyq7choHlyD2AJf8Vk-/view?usp=sharing"/>
 
 
 
